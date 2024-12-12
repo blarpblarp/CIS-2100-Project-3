@@ -1,6 +1,6 @@
 # CIS-2100-Project-3
 
-# README: Market Basket Analysis System
+# Market Basket Analysis System
 
 ## Overview
 The **Market Basket Analysis System** provides insights into purchasing behaviors across corporate stores by analyzing sales data. It uncovers frequent product combinations, calculates product popularity, and delivers actionable insights for cross-selling, inventory optimization, and store-specific marketing.
